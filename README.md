@@ -1,0 +1,2 @@
+# treyd
+B.Sc.-verkætlan
