@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "8XaLhzzhNCAW+Hc5obuEdvmPv5FH6Cn3zh/ZYKzxAZvJFP6DkYxp3H+tQQMtj++/Fz6q/tVLQ+2aF0trZf78Vg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JonSi\\ASP.NETProjects\\treyd\\treyd\\treyd.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JonSi\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.10.13\\microsoft.visualstudio.azure.containers.tools.targets.1.10.13.nupkg.sha512"
+  ],
+  "logs": []
+}
